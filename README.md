@@ -40,5 +40,19 @@ Implementing the Smart Poultry System can significantly enhance the efficiency a
 - **B14 - Nadya Fimatul Fadilah**, an Informatics Student at Bhinneka PGRI University, Tulungagung
 - **B15 - Nanda Laily Fatimah Anwar**, an Information Systems Student at Indonesian Computer University, Bandung
 
+## Technical Specifications
+
+### Hardware Components
+- **Sensors:** DHT22 (Temperature and Humidity), MQ-135 (Ammonia, Carbon Dioxide)
+- **Microcontroller:** ESP32
+- **Actuators:** Ventilation (Servo for opening the ventilation)
+- **Power Supply:** Electrical outlet
+
+### Software Components
+- **Firmware:** Arduino IDE for microcontroller programming
+- **Mobile Application:** Developed using MIT App Inventor
+- **Backend:** ThingsBoard Cloud for real-time database and cloud functions
+- **Data Visualization:** Thingsboard dashboard for data visualization
+
 ## Conclusion
 ChickWise represents a significant leap forward in the field of agricultural technology, bringing the benefits of IoT to the vital area of poultry farming. By addressing key environmental factors, ChickWise helps farmers create healthier and more productive living conditions for their chickens. This project not only highlights the potential of technology to improve traditional farming practices but also underscores the importance of sustainability and humane treatment in agriculture. With ChickWise, we aim to set a new standard for innovation in poultry farming, driving positive change for farmers and their flocks alike.
