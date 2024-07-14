@@ -1,9 +1,9 @@
-# FinalProject-MySkill-IoT
+# ChickWise - FinalProject-MySkill-IoT
 
 ## Project Overview
-### ChickWise  
 
 ChickWise is an innovative IoT-based solution designed to optimize the environmental conditions within poultry farms. By monitoring and controlling key parameters such as temperature, humidity, and ammonia levels, this system aims to create a safe and healthy environment for chickens, thereby reducing the incidence of diseases like SNOT (Sinusitis or Mycoplasma gallisepticum). This project is also made to fulfill our 
+ChickWise is an innovative IoT-based solution designed to optimize the environmental conditions within poultry farms. By monitoring and controlling key parameters such as temperature, humidity, and ammonia levels, this system aims to create a safe and healthy environment for chickens, thereby reducing the incidence of diseases like SNOT (Sinusitis or Mycoplasma gallisepticum). This project serves as a testament to the integration of technology with traditional farming practices to enhance efficiency and sustainability. This project is also made to fulfill the requirements for our Independent Study (SIB) completion, led by The Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia through the Kampus Merdeka policy and MySkill.
 
 ### Background
 
@@ -26,13 +26,19 @@ Implementing the Smart Poultry System can significantly enhance the efficiency a
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Background](#background)
+- [Objectives](#objectives)
+- [Key Features](#key-features)
+- [Significance](#significance)
 - [Team Members](#team-members)
+- [Technical Specifications](#technical-specifications)
 
 ## Team Members
-- **B11 - Selviani Amalia Kartika**,   
-- **B12 - David Giofani**, 
-- **B13 - Tirza Febiana Widjajanto**,  an Informatics Student at Universitas Sam Ratulangi Manado   
-- **B14 - Nadya Fimatul Fadilah**, an Informatics Student at Universitas Bhinneka PGRI Tulungagung
-- **B15 - Nanda Laily Fatimah Anwar**, an Information Systems Student at Universitas Komputer Indonesia
+- **B11 - Selviani Amalia Kartika**, an Information Systems Student at Hasanuddin University, Makassar   
+- **B12 - David Giofani**, an Informatics Student at Indraprasta PGRI University, Jakarta
+- **B13 - Tirza Febiana Widjajanto**,  an Informatics Student at Sam Ratulangi University, Manado  
+- **B14 - Nadya Fimatul Fadilah**, an Informatics Student at Bhinneka PGRI University, Tulungagung
+- **B15 - Nanda Laily Fatimah Anwar**, an Information Systems Student at Indonesian Computer University, Bandung
 
-
+## Conclusion
+ChickWise represents a significant leap forward in the field of agricultural technology, bringing the benefits of IoT to the vital area of poultry farming. By addressing key environmental factors, ChickWise helps farmers create healthier and more productive living conditions for their chickens. This project not only highlights the potential of technology to improve traditional farming practices but also underscores the importance of sustainability and humane treatment in agriculture. With ChickWise, we aim to set a new standard for innovation in poultry farming, driving positive change for farmers and their flocks alike.
