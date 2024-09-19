@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-ChickWise is an innovative IoT-based solution designed to optimize the environmental conditions within poultry farms. By monitoring and controlling key parameters such as temperature, humidity, and ammonia levels, this system aims to create a safe and healthy environment for chickens, thereby reducing the incidence of diseases like SNOT (Sinusitis or Mycoplasma gallisepticum). This project is also made to fulfill our 
-ChickWise is an innovative IoT-based solution designed to optimize the environmental conditions within poultry farms. By monitoring and controlling key parameters such as temperature, humidity, and ammonia levels, this system aims to create a safe and healthy environment for chickens, thereby reducing the incidence of diseases like SNOT (Sinusitis or Mycoplasma gallisepticum). This project serves as a testament to the integration of technology with traditional farming practices to enhance efficiency and sustainability. This project is also made to fulfill the requirements for our Independent Study (SIB) completion, led by The Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia through the Kampus Merdeka policy and MySkill.
+ChickWise is an innovative IoT-based solution designed to optimize environmental conditions within poultry farms. By monitoring and controlling key parameters such as temperature, humidity, and ammonia levels, this system aims to create a safe and healthy environment for chickens, thereby reducing the incidence of diseases like SNOT (Sinusitis or Mycoplasma gallisepticum). This project showcases the integration of technology with traditional farming practices to enhance efficiency and sustainability. Additionally, it fulfills the requirements for our Independent Study (SIB) completion, led by the Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia through the Kampus Merdeka policy and MySkill.
 
 ### Background
 
